@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Project 6
+Purpose of the project:
 
-You can use the [editor on GitHub](https://github.com/daphnecarwin/cit281-p6/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Gain experience creating and working classes with inheritance
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Gain more experience creating and working with classes
 
-### Markdown
+Gain more experience debugging code
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Gain more experience using a generic block of code to process data
 
-```markdown
-Syntax highlighted code block
+Gain more experience interpreting functional descriptions and specifications to complete an assignment
 
-# Header 1
-## Header 2
-### Header 3
+Gain more experience writing and executing non-web server Node.js JavaScript code using VSCode
 
-- Bulleted
-- List
+Practice using modern JavaScript syntax
 
-1. Numbered
-2. List
+Gain more experience working with static data
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+Technologies used for the project:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Node.js, VSCode
 
-### Jekyll Themes
+What I learned from the project:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daphnecarwin/cit281-p6/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+From this project I learned that there are many different ways to code with the same output, especially when using functions and inheritance and it always best to keep it simple and and not create more coding for yourself. 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
